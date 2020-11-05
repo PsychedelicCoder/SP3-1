@@ -23,7 +23,7 @@ public class Customer {
 //Custommer object og printet ud sammen med det genereret kunde nummer.
     public void customerInput(){
         Scanner cusInput = new Scanner(System.in);
-        System.out.println("Enter the customers phone number and name here:");
+        System.out.println("Enter the customers name and phone number here:");
 // String input
         String name = cusInput.nextLine();
 // Numerical input
