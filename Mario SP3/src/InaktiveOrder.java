@@ -1,2 +1,2 @@
-public class InaktiveOrder {
+public class InactiveOrder {
 }
